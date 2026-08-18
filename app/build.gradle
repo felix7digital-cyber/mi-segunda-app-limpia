@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.felix.miapp'
+    namespace 'com.felix.miapp2'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.felix.miapp"
+        applicationId "com.felix.miapp2"
         minSdk 21
         targetSdk 34
         versionCode 1
@@ -30,4 +30,3 @@ android {
         jvmTarget = '17'
     }
 }
-
