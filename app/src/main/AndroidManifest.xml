@@ -9,7 +9,7 @@
         android:theme="@android:style/Theme.Material.Light">
         
         <activity
-            android:name="com.felix.miapp2.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
