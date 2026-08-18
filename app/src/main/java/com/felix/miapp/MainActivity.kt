@@ -9,7 +9,7 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         
         val textView = TextView(this).apply {
-            text = "¡Hola Félix! Tu APK fue compilado sin errores."
+            text = "¡Hola Félix! Segunda app funcionando."
             textSize = 22f
             setPadding(40, 40, 40, 40)
         }
@@ -17,4 +17,3 @@ class MainActivity : Activity() {
         setContentView(textView)
     }
 }
-
