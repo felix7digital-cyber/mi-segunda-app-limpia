@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mi-app-limpia"
+rootProject.name = "mi-segunda-app-limpia"
 include ':app'
-
