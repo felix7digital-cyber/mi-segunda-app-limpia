@@ -1,4 +1,4 @@
-package com.felix.miapp2
+package com.felix.miapp
 
 import android.app.Activity
 import android.os.Bundle
@@ -9,7 +9,7 @@ class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         
         val textView = TextView(this).apply {
-            text = "¡Hola Félix! Ahora sí funciono."
+            text = "¡Hola Félix! Segunda app clonada con éxito."
             textSize = 22f
             setPadding(40, 40, 40, 40)
         }
